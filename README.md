@@ -1,1 +1,1 @@
- My first readme 
+First journy with alx software engineering
